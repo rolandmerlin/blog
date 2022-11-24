@@ -1,7 +1,9 @@
 # blog
 
 # Les sources du clients sont déjà compilées
-# Au case ou, voici la procédure pour les recompiler
+
+Au case ou, voici la procédure pour les recompiler
+
 Compilation Client :
 cd client
 npm install
