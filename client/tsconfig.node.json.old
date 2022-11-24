@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "es2015",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true,
+    "target":"es5"
+  },
+  "include": ["vite.config.ts"]
+}

@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    @apply antialiased;
+}
+
+.btn { @apply rounded-none }
+input:focus { outline:none; }
+
+.article h1 {
+    @apply text-xl;
+}
+.article h2 {
+    @apply text-lg;
+}
+.article h3 {
+    @apply text-base;
+}
+.article h4 {
+    @apply text-sm;
+}
+.article h5 {
+    @apply text-xl;
+}
+.article textarea, .article * {
+    line-height: 1.25rem;
+}
+
+hr {
+    @apply border-black;
+}
