@@ -1,6 +1,6 @@
 # blog
 
-# Les sources du clients sont déjà compilées
+Les sources du clients sont déjà compilées
 
 Au case ou, voici la procédure pour les recompiler
 
